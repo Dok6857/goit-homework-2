@@ -210,22 +210,6 @@ font-size: 20px;
 font-weight: 500;
 line-height: 1.2; /* 120% */
 letter-spacing: 0.02em;
-position: relative;
-width: auto;
-height: auto;
-left: auto;
-top: auto;
-box-sizing: border-box;
-display: block;
-align-items: center;
-padding: 0%;
-flex-direction: column;
-gap: 0;
-border-radius: 0%;
-box-shadow: none;
-order: inherit;
-flex-grow: 0;
-border-bottom: #2E2F42;
 }
 
 .benefits-title {
